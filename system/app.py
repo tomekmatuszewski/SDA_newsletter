@@ -1,6 +1,6 @@
 from system.newsletter_system import NewsLetterSystem
 
-number_of_users = int(input("Enter numbe rof users: "))
+number_of_users = int(input("Enter number of users: "))
 system = NewsLetterSystem(number_of_users)
 
 while True:
